@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 new file 
 
 from branch new
+=======
+new file
+
+some changes from branch main
+>>>>>>> main
